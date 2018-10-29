@@ -1,2 +1,2 @@
 # Team-Zodiac
-This is a repository
+This is repository belongs to ZODIAC
